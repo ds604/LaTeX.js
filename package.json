@@ -104,7 +104,7 @@
     "mocha-junit-reporter": "1.18.x",
     "chai": "4.x",
     "chai-as-promised": "7.x",
-    "slugify": "1.3.x",
+    "slugify": "1.3.1",
     "puppeteer": "1.9.x",
     "pixelmatch": "4.0.x",
     "nyc": "13.x",
